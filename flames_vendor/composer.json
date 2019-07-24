@@ -1,0 +1,19 @@
+{
+    "name": "infiniti/flames_vendor",
+    "description": "Flames gaming",
+    "authors": [
+        {
+            "name": "Balaji",
+            "email": "balaji@infinitisoftware.net"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    }
+}
